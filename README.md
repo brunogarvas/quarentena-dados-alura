@@ -1,7 +1,7 @@
 # Quarentena de Dados da Alura Cursos - Desafios
 Repositório com notebook de desafios Python + Pandas da Quarentena de Dados da Alura Cursos
 
-Links para Notebooks das Aulas no Colab - Google Drive
+Links para Notebooks das Aulas no Colab - Google Drive:
 
 Aula 01 - https://colab.research.google.com/drive/1J9rbQwO-yjEfo9JDrpz9BFdkQSLZonQr
 
